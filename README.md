@@ -1,1 +1,10 @@
-# fisiologiadelentrenamiento
+<!DOCTYPE html>
+<html>
+<head>
+<title>Fisiología del Entrenamiento</title>
+</head>
+<body>
+<h1>¡Bienvenido a mi sitio web!</h1>
+<p>Este es un sitio alojado en GitHub Pages.</p>
+</body>
+</html>
